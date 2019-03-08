@@ -1,0 +1,61 @@
+header.col-md-12{
+background-color: #55acee;
+}
+
+img{
+    height:50px;
+    margin-left: 10px;
+}
+
+section.col-md-7{
+   
+}
+#code{
+    
+  /*border:  2px solid black;*/
+    line-height: 200px;   
+margin-top: 40px;
+}
+
+.loupe{
+    width: 20px;
+    height: 20px;
+}
+button{
+    width: 100%;
+}
+
+form.col-md-5{
+    margin-top: 50px;
+}
+.checkbox{
+   /*background-color: #55acee;*/
+line-height:20px;
+    
+}
+label.choix{
+  margin-top: 10px;
+    
+}
+#b1,#seconnecter{
+margin-top: 20px;
+    font-weight: bolder;
+}
+footer.col-md-12{
+    line-height: 10px;
+    margin-top: 100px;
+}
+h1,h3,p{
+    font-weight: bolder;
+}
+
+#b1{
+    background-color: #ffbc41;
+}
+
+#seconnecter{
+ background-color: #55acee;  
+}
+body,hmtl{
+    background-color: #526782;
+}
